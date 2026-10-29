@@ -14,6 +14,10 @@ Currently CPTO at **Heart Milan Apartments**, leading product and technology acr
 
 The [portfolio repository](https://github.com/Firepie6/applied-ai-portfolio) includes detailed case studies, evidence boundaries and runnable website source. Original employer systems and personal archives are not published.
 
+## Inspect the workflow logic
+
+The separately built [Maintenance Workflow Lab](https://github.com/Firepie6/applied-ai-portfolio/blob/main/reference-lab.md) makes missing information, staff ownership, task acceptance, retries and stale updates inspectable. It uses twelve synthetic scenarios and a deterministic policy engine. [Source and tests](https://github.com/Firepie6/applied-ai-portfolio/tree/main/website/lab) are public; it is a reference build, not HMA production.
+
 ## What I bring
 
 Frontline operating experience, workflow discovery, agent configuration and evaluation, structured knowledge, API integrations, AI-assisted development, and rollout with the people doing the work.
