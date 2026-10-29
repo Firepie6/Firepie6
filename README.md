@@ -16,7 +16,7 @@ The [portfolio repository](https://github.com/Firepie6/applied-ai-portfolio) inc
 
 ## Inspect the workflow logic
 
-The separately built [Maintenance Workflow Lab](https://github.com/Firepie6/applied-ai-portfolio/blob/main/reference-lab.md) makes missing information, staff ownership, task acceptance, retries and stale updates inspectable. It uses twelve synthetic scenarios and a deterministic policy engine. [Source and tests](https://github.com/Firepie6/applied-ai-portfolio/tree/main/website/lab) are public; it is a reference build, not HMA production.
+The separately built [Maintenance Workflow Lab](https://github.com/Firepie6/applied-ai-portfolio/blob/main/reference-lab.md) makes missing information, staff ownership, task acceptance, retries and stale updates inspectable. It uses twelve synthetic scenarios and a deterministic policy engine. Its [source](https://github.com/Firepie6/applied-ai-portfolio/tree/main/website/lab) and [tests](https://github.com/Firepie6/applied-ai-portfolio/blob/main/tests/workflow.test.mjs) are public; it is a reference build, not HMA production.
 
 ## What I bring
 
